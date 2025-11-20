@@ -125,6 +125,33 @@ Execute the test client:
 uv run client.py
 ```
 
+```
+
+## 📚 Learning Resources
+
+This project includes comprehensive learning materials:
+
+### questions.md
+50 carefully curated questions covering:
+- **HTTP Fundamentals**: Status codes, methods, versions (HTTP/1.1, HTTP/2, HTTP/3)
+- **REST API Design**: Best practices, constraints, idempotency
+- **JSON-RPC Protocol**: Request/response structure, error handling, batch requests
+- **MCP Concepts**: Context, primitives (Tools/Resources/Prompts), transports, roots
+- **FastMCP**: Configuration options, stateful vs stateless modes
+
+### answers.md
+Complete numbered answers (1-50) for all questions, providing:
+- Concise, accurate explanations
+- Real-world examples from the project
+- Error codes and their meanings
+- Best practices and recommendations
+
+These resources are perfect for:
+- Learning MCP protocol fundamentals
+- Understanding JSON-RPC communication
+- Preparing for technical interviews
+- Quick reference while developing
+
 ## 🧪 Testing
 For detailed testing instructions, please refer to [Instructions.md](Instructions.md).
 
