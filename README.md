@@ -125,7 +125,6 @@ Execute the test client:
 uv run client.py
 ```
 
-```
 
 ## 📚 Learning Resources
 
