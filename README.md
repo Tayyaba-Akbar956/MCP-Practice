@@ -135,7 +135,7 @@ This project includes comprehensive learning materials:
 - **HTTP Fundamentals**: Status codes, methods, versions (HTTP/1.1, HTTP/2, HTTP/3)
 - **REST API Design**: Best practices, constraints, idempotency
 - **JSON-RPC Protocol**: Request/response structure, error handling, batch requests
-- **MCP Concepts**: Context, primitives (Tools/Resources/Prompts), transports, roots
+- **MCP Concepts**: Context, primitives (Tools/Resources/Prompts), transports, roots, sampling , logs and progress
 - **FastMCP**: Configuration options, stateful vs stateless modes
 
 ### answers.md
